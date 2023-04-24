@@ -109,3 +109,13 @@ textarea:focus {
 .search input:focus {
 	outline: none;
 }
+
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: rgb(179, 171, 171);
+	color: rgb(27, 35, 37);
+	text-align: center;
+  }
